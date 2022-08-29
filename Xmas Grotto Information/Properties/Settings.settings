@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Xmas_Grotto_Information.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="giNo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="giFTPHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">access802899325.webspace-data.io</Value>
+    </Setting>
+    <Setting Name="giFTPUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u98941559</Value>
+    </Setting>
+    <Setting Name="giFTPPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jadzia1984!</Value>
+    </Setting>
+    <Setting Name="giFTPPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="giRFAdult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/hQDo6TUAuImqWENYQjdjMHhdKeiFYqsvMKhMPNBgM7oXUCNkXB4rtBH7i3tYubYh</Value>
+    </Setting>
+    <Setting Name="giRFChild" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/uzmQIAHBSH6kusMp9tNpbSvEn5IGJKaB5ESX3WUWmPeMVNRnBFxudnt4ubtaAfbJ</Value>
+    </Setting>
+    <Setting Name="giRFFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/3hbQnlLEQA870bKszQg8dIWQ5cLzZm2wOCJj5zym0eFKZwgBn2T0ZS9i03fit53q</Value>
+    </Setting>
+    <Setting Name="giWait" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="giLocalSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="giMonitorLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="giCamLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="giGrottoLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="giMonitorInt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="giUnique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">645765</Value>
+    </Setting>
+    <Setting Name="giElfName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Snuggles</Value>
+    </Setting>
+    <Setting Name="giElfActor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mandy</Value>
+    </Setting>
+    <Setting Name="giSantaActor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kevin</Value>
+    </Setting>
+    <Setting Name="giStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="giQuestionFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="giFamilyChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,,,,,,,,,,,,,,,,,</Value>
+    </Setting>
+    <Setting Name="giAdultChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,,,,,,,,,,,,,,,,,</Value>
+    </Setting>
+    <Setting Name="giChildChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,,,,,,,,,,,,,,,,,</Value>
+    </Setting>
+    <Setting Name="giDCPW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TFI4gOfiMnABxa4UG9BuJAh4fUjayi5ySGHVB0XeT3qrgdFh8gj27ArwUUH8pBFZ</Value>
+    </Setting>
+    <Setting Name="giStatusList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Open,Break,Closed,Broken - Camera, Broken - Santa, Broken - Elf, Broken - Screen</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
